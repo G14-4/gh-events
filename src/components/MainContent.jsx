@@ -4,6 +4,7 @@ import HelpArea from './HelpArea';
 
 
 /// made a change
+// another commit
 function MainContent() {
   const [helpVisible, setHelpVisible] = useState(false);
 
